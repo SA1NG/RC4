@@ -30,7 +30,7 @@ cd RC4_ver2
 - file config.h
 
 ## 🧩 Giải thích thuật toán
-![RC4 Flowchart]([https://example.com/path/to/rc4_flowchart.png](https://www.researchgate.net/profile/Riyadh-Z-Mahmood/publication/333492486/figure/fig1/AS:11431281110849966@1672780047672/RC4-algorithm-flow-chart.ppm))
+![RC4 Flowchart]([https://example.com/path/to/rc4_flowchart.png](https://www.researchgate.net/profile/Imad-Mohammed/publication/323783954/figure/fig1/AS:613507015901221@1523282879278/Flowchart-of-RC4-Algorithm.png))
 ### 🔸 1. Key Scheduling Algorithm (KSA)
 Khởi tạo mảng `S[0..255]` với giá trị từ `0` đến `255`, rồi trộn nó dựa vào khóa `key`:
 
