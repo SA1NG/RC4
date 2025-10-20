@@ -139,6 +139,9 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="RC4.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\Flowchart-of-RC4-Algorithm.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
